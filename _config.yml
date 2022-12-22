@@ -8,9 +8,15 @@ description: "Comune | Unleashing the potential of small businesses with our des
 
 # Team names, titles and social links
 people:
+- name:
+  pic:
+  position:
 - name: Kathy Watrous
   pic: 1
-  position: Lead Designer
+  position: Chief Designer
+- name:
+  pic:
+  position:
   # social:
   #   - title: twitter
   #     url: #
